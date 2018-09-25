@@ -7,6 +7,7 @@ public class Digits {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Enter the number");
+		System.out.println("smile");
 		Scanner scan = new Scanner(System.in);
 		String numb = scan.nextLine();
 		char t = 0;
